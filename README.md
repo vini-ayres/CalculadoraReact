@@ -18,7 +18,7 @@ Este é um projeto de uma calculadora simples desenvolvida em React. A aplicaç�
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-react.git
+   git clone https://github.com/vini-ayres/CalculadoraReact.git
    ```
 
 2. Navegue até o diretório do projeto:
